@@ -1,4 +1,4 @@
-# APO
+# MSVPO
 Author's implementation of ["Mean-Semivariance Policy Optimization via Risk-Averse"](https://arxiv.org/abs/2206.07376).
 
 
